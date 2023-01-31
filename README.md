@@ -27,5 +27,7 @@ Broker-based Architecture: AMQP uses a broker-based architecture, where messages
 
 Language Agnostic: AMQP is language agnostic, meaning that it can be used with a wide variety of programming languages, including Java, Python, Ruby, and more. This makes it easier to integrate with existing systems and develop new applications.
 
+More info about RabbitMq and Kafka https://habr.com/en/company/innotech/blog/699598/
+
 
 
